@@ -49,10 +49,6 @@ enable detect location to get current location and fill in as value/placeholder 
           <input type="submit" name="submit" value="Search" class="btn btn-primary btn-xl rounded-pill mt-5">  
         </form>
 
-        
-        
-        
-      
     </div>
   </header>
 

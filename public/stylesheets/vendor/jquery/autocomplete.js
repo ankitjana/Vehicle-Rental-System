@@ -1,5 +1,3 @@
-var test = document.getElementById('test');
-alert(test.getAttribute("onclick"));​
 
 var placeSearch, autocomplete;
 

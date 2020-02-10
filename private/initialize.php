@@ -1,6 +1,8 @@
 <?php
 
 ob_start();
+date_default_timezone_set('US/Eastern');
+   
 	// Assign file paths to PHP constants
 // __FILE__ returns the current path to this file
 // dirname() returns the path to the parent directory
